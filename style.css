@@ -1,0 +1,183 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.text{
+    font-family: var(--second-family);
+font-weight: 900;
+font-size: 31px;
+line-height: 87%;
+text-align: center;
+color: var(--white);
+}
+.header{
+background: #1b54dd;
+text-align: center;
+margin-top: 32px;
+text-align: center;
+}
+.img2{
+    width: 100px;
+height: 66px;
+}
+.Bey{
+    font-family: "Inter", sans-serif;;
+font-weight: 700;
+font-size: 36px;
+text-align: center;
+color: white;
+margin-top: 32px;
+}
+.myimg{
+    margin-top: 32px;
+}
+.text2{
+    margin-top: 32px;
+    font-family: "Inter", sans-serif;
+    color: white;
+    font-weight: 700;
+    font-size: 24px;
+}
+.wild{
+    margin-top: 32px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: white;
+    width: 450px;
+    margin-left: 656px;
+}
+.CTA{
+    margin-top: 32px;
+    border-radius: 4px;
+padding: 12px 24px;
+width: 110px;
+height: 41px;
+background: white;
+font-family: "Inter", sans-serif;
+}
+.main{
+    background: white;
+    margin-top: 32px;
+}
+
+.main2{
+    display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+.imggg{
+    margin-top: 32px;
+    width: 240px;
+height: 240px;
+margin-left: 60px;
+}
+.rule{
+    font-family: "Inter", sans-serif;
+font-weight: 700;
+font-size: 24px;
+margin-left: 364px;
+margin-top: -200px;
+}
+.ppp{
+    width: 230px;
+    margin-left: 364px;
+    margin-top: 16px;
+    font-family: "Inter", sans-serif;
+}
+.pppp{
+    margin-left: 364px;
+    margin-top: 16px;
+    color: #1b54dd;
+    font-family: "Inter", sans-serif;
+}
+.man{
+    margin-top: 75px;
+    margin-left: 60px;
+}
+.Iwork{
+    font-family: "Inter", sans-serif;
+font-weight: 700px;
+font-size: 24px;
+margin-left: 364px;
+margin-top: -200px;
+}
+.Ilike{
+    width: 230px;
+    margin-left: 364px;
+    margin-top: 16px;
+    font-family: "Inter", sans-serif;
+}
+.Link{
+    margin-left: 364px;
+    margin-top: 16px;
+    color: #1b54dd;
+    font-family: "Inter", sans-serif;
+}
+.glasses{
+    margin-top: 95px;
+    margin-left: 60px;
+}
+.fast{
+     font-family: "Inter", sans-serif;
+font-weight: 700;
+font-size: 24px;
+margin-left: 364px;
+margin-top: -200px;
+}
+.give{
+    width: 230px;
+    margin-left: 364px;
+    margin-top: 16px;
+    font-family: "Inter", sans-serif;
+}
+.link{
+    margin-left: 364px;
+    margin-top: 16px;
+    color: #1b54dd;
+    font-family: "Inter", sans-serif;
+}
+.CTA2{
+    margin-top: 75px;
+    border-radius: 4px;
+padding: 12px 24px;
+width: 110px;
+height: 41px;
+background: #1b54dd;
+font-family: "Inter", sans-serif;
+color: white;
+margin-left: 9px;
+}
+.footer{
+    margin-top: 32px;
+    background:gray ;
+}
+.media{
+    margin-top: 26px;
+    width: 118px;
+height: 18px;
+margin-left: 830px;
+}
+.dunder{
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+font-size: 14px;
+text-align: center;
+margin-top: 16px;
+}
+.Bonnie{
+    font-family: "Inter", sans-serif;
+margin-top: 8px;
+font-weight: 400;
+font-size: 10px;
+margin-left: 780px;
+width: 224px;
+}
+.Mark{
+    margin-left: 864px;
+    height: 22px;
+    width: 40px;
+    margin-top: 16px;
+}
